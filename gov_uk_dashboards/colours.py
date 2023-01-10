@@ -56,5 +56,5 @@ class ONSAccessibleColours(Enum):
     DARK_BLUE = "#206095"
     LIME = "#a8bd3a"
     MAROON = "#871a5b"
-    # LIGHT_BLUE = "#27a0cc"
     ORANGE = "#f47738"
+    LIGHT_BLUE = "#27a0cc"
